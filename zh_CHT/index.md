@@ -5,7 +5,7 @@
 
 這裏是杯子的個人wiki，關於如何搭建這個wiki的，可以去[我的博客](https://cupkappu.github.io/)查看
 
-[Wiki現有頁面目錄](目錄.md)
+[Wiki現有頁面目錄](pages/index.md)
 
 [個人嗶哩嗶哩主頁](https://space.bilibili.com/6270976)
 
