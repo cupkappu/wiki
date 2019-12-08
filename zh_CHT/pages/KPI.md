@@ -4,7 +4,7 @@
 
 衡量某一業務表現時候采用的關鍵指標，稱作關鍵績效指標。
 
-[績效](performance_businessmanagement.md)指某一業務在一特定時間内的工作行爲以及這個工作行爲的可量化工作結果，是業務實現目標的程度以及達成效率的的衡量與反饋。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2tuWjtc2Ifk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [](https://www.youtube.com/watch?v=2tuWjtc2Ifk)
 
