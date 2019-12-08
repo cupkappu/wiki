@@ -6,6 +6,8 @@
 
 [績效](performance_businessmanagement.md)指某一業務在一特定時間内的工作行爲以及這個工作行爲的可量化工作結果，是業務實現目標的程度以及達成效率的的衡量與反饋。
 
+[](https://www.youtube.com/watch?v=2tuWjtc2Ifk)
+
 ## 設定KPI的標準
 
 若KPI符合業務目標（指KPI轉優，則表示業務表現必定轉優），且KPI是可量化的，則可基本確定是一個有效的KPI
