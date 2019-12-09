@@ -27,11 +27,12 @@
 [Telegram](https://t.me/kifuc)
 [Language]()
 
-  * # Language
   * [繁體中文](../zh_CHT/)
   * [简体中文](../zh_CHS/)
   * [English](../en/)
   * [日本語](../ja/)
+
+
 <!-- A more complex navigation example: ----------------------------------------
 
 [Menu Item 1]()
