@@ -19,9 +19,12 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[關於](pages/about.md)
-[下載](pages/download.md)
-
+[目錄](pages/index.md)
+[站主部落格](https://kust.ga/blog)
+[Youtube主頁](https://kust.ga/ytbpg)
+[Twitter](http://kust.ga/tme)
+[E-mail](tetsudokappu@gmail.com)
+[Telegram](https://t.me/kifuc)
 <!-- A more complex navigation example: ----------------------------------------
 
 [Menu Item 1]()
