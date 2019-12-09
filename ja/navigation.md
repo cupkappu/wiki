@@ -23,7 +23,7 @@
 [Twitter](http://kust.ga/tme)
 [E-mail](tetsudokappu@gmail.com)
 [Telegram](https://t.me/kifuc)
-[]()
+[Language]()
 
   * # Language
   * [繁體中文](../zh_CHT/)
