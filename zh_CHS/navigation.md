@@ -32,7 +32,6 @@
   * [English](../en/)
   * [日本語](../ja/)
 
-
 <!-- A more complex navigation example: ----------------------------------------
 
 [Menu Item 1]()
