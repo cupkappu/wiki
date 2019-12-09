@@ -6,8 +6,6 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2tuWjtc2Ifk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in -picture" allowfullscreen></iframe>
 
-[](https://www.youtube.com/watch?v=2tuWjtc2Ifk)
-
 ## 设定KPI的标准
 
 若KPI符合业务目标（指KPI转优，则表示业务表现必定转优），且KPI是可量化的，则可基本确定是一个有效的KPI

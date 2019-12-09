@@ -6,8 +6,6 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2tuWjtc2Ifk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[](https://www.youtube.com/watch?v=2tuWjtc2Ifk)
-
 ## 設定KPI的標準
 
 若KPI符合業務目標（指KPI轉優，則表示業務表現必定轉優），且KPI是可量化的，則可基本確定是一個有效的KPI
