@@ -25,6 +25,11 @@
 [Twitter](http://kust.ga/tme)
 [E-mail](tetsudokappu@gmail.com)
 [Telegram](https://t.me/kifuc)
+[Language]()
+* [繁體中文](../zh_CHT/)
+* [简体中文](../zh_CHS/)
+* [English](../en/)
+* [日本語](../ja/)
 <!-- A more complex navigation example: ----------------------------------------
 
 [Menu Item 1]()
