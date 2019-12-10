@@ -91,18 +91,18 @@ Markdown在創建初期純粹是爲了實現一種易於直接使用文本格式
 ### 鏈接
 使用`[Linkname](url://)`創建鏈接
 ```Markdown
-點擊[這裏](../Markdown.md)
+點擊[這裏](https://baidu.com)
 
 點擊[這裏][here]去google
 
-[here]:google
+[here]:https://www.google.com
 ```
 **顯示效果**
->點擊[這裏](../Markdown.md)
+>點擊[這裏](https://baidu.com)
 >
 >點擊[這裏][here]去google
 >
->[here]:google
+>[here]:https://www.google.com
 
 ### 圖片
 使用`![Image name](url://.png)`創建圖片
