@@ -92,17 +92,37 @@ Markdown在創建初期純粹是爲了實現一種易於直接使用文本格式
 使用`[Linkname](url://)`創建鏈接
 ```Markdown
 點擊[這裏](../Markdown.md)
+
+點擊[這裏][here]去google
+
+[here]:google
 ```
 **顯示效果**
 >點擊[這裏](../Markdown.md)
+>
+>點擊[這裏][here]去google
+>
+>[here]:google
 
 ### 圖片
 使用`![Image name](url://.png)`創建圖片
 ```Markdown
-![Google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
+![Link](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
+
+![Base64](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAAAUCAAAAAAVAxSkAAABrUlEQVQ4y+3TPUvDQBgH8OdDOGa+oUMgk2MpdHIIgpSUiqC0OKirgxYX8QVFRQRpBRF8KShqLbgIYkUEteCgFVuqUEVxEIkvJFhae3m8S2KbSkcFBw9yHP88+eXucgH8kQZ/jSm4VDaIy9RKCpKac9NKgU4uEJNwhHhK3qvPBVO8rxRWmFXPF+NSM1KVMbwriAMwhDgVcrxeMZm85GR0PhvGJAAmyozJsbsxgNEir4iEjIK0SYqGd8sOR3rJAGN2BCEkOxhxMhpd8Mk0CXtZacxi1hr20mI/rzgnxayoidevcGuHXTC/q6QuYSMt1jC+gBIiMg12v2vb5NlklChiWnhmFZpwvxDGzuUzV8kOg+N8UUvNBp64vy9q3UN7gDXhwWLY2nMC3zRDibfsY7wjEkY79CdMZhrxSqqzxf4ZRPXwzWJirMicDa5KwiPeARygHXKNMQHEy3rMopDR20XNZGbJzUtrwDC/KshlLDWyqdmhxZzCsdYmf2fWZPoxCEDyfIvdtNQH0PRkH6Q51g8rFO3Qzxh2LbItcDCOpmuOsV7ntNaERe3v/lP/zO8yn4N+yNPrekmPAAAAAElFTkSuQmCC)
+
+![Link][linking]
+
+[linking]:https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png
 ```
 **顯示效果**
->![Google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
+>![Link](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
+>
+>![Base64](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAAAUCAAAAAAVAxSkAAABrUlEQVQ4y+3TPUvDQBgH8OdDOGa+oUMgk2MpdHIIgpSUiqC0OKirgxYX8QVFRQRpBRF8KShqLbgIYkUEteCgFVuqUEVxEIkvJFhae3m8S2KbSkcFBw9yHP88+eXucgH8kQZ/jSm4VDaIy9RKCpKac9NKgU4uEJNwhHhK3qvPBVO8rxRWmFXPF+NSM1KVMbwriAMwhDgVcrxeMZm85GR0PhvGJAAmyozJsbsxgNEir4iEjIK0SYqGd8sOR3rJAGN2BCEkOxhxMhpd8Mk0CXtZacxi1hr20mI/rzgnxayoidevcGuHXTC/q6QuYSMt1jC+gBIiMg12v2vb5NlklChiWnhmFZpwvxDGzuUzV8kOg+N8UUvNBp64vy9q3UN7gDXhwWLY2nMC3zRDibfsY7wjEkY79CdMZhrxSqqzxf4ZRPXwzWJirMicDa5KwiPeARygHXKNMQHEy3rMopDR20XNZGbJzUtrwDC/KshlLDWyqdmhxZzCsdYmf2fWZPoxCEDyfIvdtNQH0PRkH6Q51g8rFO3Qzxh2LbItcDCOpmuOsV7ntNaERe3v/lP/zO8yn4N+yNPrekmPAAAAAElFTkSuQmCC)
+>
+>![Link][linking]
+>
+>[linking]:https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png
 
 ### 引用
 使用`>`符號置前進行引用
